@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Ambev.Store.API/Ambev.Store.API.csproj" />
+  <Project Path="src/Ambev.Store.Application/Ambev.Store.Application.csproj" />
+  <Project Path="src/Ambev.Store.Domain/Ambev.Store.Domain.csproj" />
+  <Project Path="src/Ambev.Store.Infrastructure/Ambev.Store.Infrastructure.csproj" />
+</Solution>
